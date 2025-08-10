@@ -39,7 +39,7 @@ To view the Odin Recipes website locally:
 
 1. **Clone the repository** (if hosted on GitHub):
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/TienQTo/odin-recipes.git)
    cd odin-recipes
    ```
 2. **Open the homepage**
